@@ -7,17 +7,17 @@
 
   🔭 I’m currently working as SDET at [Dream11](https://www.dream11.com/)
 
-  🌱 I’m currently learning **React, nextJS, Data Structure and Algorithms**
+  🌱 I’m currently learning **React, nextJS, Data Structure and Algorithms, System design**
 
   👨‍💻 All of my projects are available at [https://github.com/Dhruvmehta18?tab=repositories](https://github.com/Dhruvmehta18?tab=repositories)
 
-  📝 I regularly write articles on [https://twitter.com/dhruvmehta1899](https://twitter.com/dhruvmehta1899)
+<!--   📝 I regularly write articles on [https://twitter.com/dhruvmehta1899](https://twitter.com/dhruvmehta1899) -->
 
-  💬 Ask me about **React, nextjs**
+<!--   💬 Ask me about **React, nextjs** -->
 
   📫 How to reach me **dhruvmehta1899@gmail.com**
 
-  📄 Know about my experiences [https://twitter.com/dhruvmehta1899](https://twitter.com/dhruvmehta1899)
+  📄 Know about my experiences [Resume](https://firebasestorage.googleapis.com/v0/b/myself-fee00.appspot.com/o/public%2FDHRUVMEHTA_RESUME.pdf?alt=media&token=a339556c-4be1-4f88-893e-6f9e0aad6338)
 
   ⚡ Fun fact **My hobbies are Drawing, coding**
 
