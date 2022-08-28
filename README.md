@@ -7,7 +7,7 @@
 
   🔭 I’m currently working as SDET at [Dream11](https://www.dream11.com/)
 
-  🌱 I’m currently learning **React, nextJS, Data Structure and Algorithms, System design**
+  🌱 I’m currently learning **Graphql, fastify, nodeJS, AWS, Data Structure and Algorithms, System design**
 
   👨‍💻 All of my projects are available at [https://github.com/Dhruvmehta18?tab=repositories](https://github.com/Dhruvmehta18?tab=repositories)
 
