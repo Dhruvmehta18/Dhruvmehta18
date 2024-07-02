@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvmehta1899" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvmehta1899?logo=twitter&style=for-the-badge" alt="dhruvmehta1899" /></a> </p>
 
-  🔭 I’m currently working as SDET at [Dream11](https://www.dream11.com/)
+  🔭 I’m currently working as SDE at [Dream11](https://www.dream11.com/)
 
   🌱 I’m currently learning **Graphql, fastify, nodeJS, AWS, Data Structure and Algorithms, System design**
 
